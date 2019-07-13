@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site
+      mirrorsURL="https://mariazevedo88.github.io/o3smeasures/update">
+   <description name="o3smeasures-tool" url="https://mariazevedo88.github.io/o3smeasures/update">
+      
+   </description>
+   <feature url="features/io.github.mariazevedo88.o3smeasures.feature_1.3.1.jar" id="io.github.mariazevedo88.o3smeasures.feature" version="1.3.1" os="linux,macosx,win32" arch="x86"/>
+</site>
