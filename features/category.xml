@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/io.github.mariazevedo88.o3smeasures.feature_1.3.2.jar" id="io.github.mariazevedo88.o3smeasures.feature" version="1.3.2">
+   <feature id="io.github.mariazevedo88.o3smeasures.feature">
       <category name="io.github.mariazevedo88.o3smeasures.category"/>
    </feature>
    <category-def name="io.github.mariazevedo88.o3smeasures.category" label="o3smeasures"/>
