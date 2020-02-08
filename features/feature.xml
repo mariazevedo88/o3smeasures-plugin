@@ -9,11 +9,11 @@
    <description>
       Feature of o3smeasures - an Eclipse plug-in to evaluate software internal quality of Java projects.
    </description>
-   
+
    <copyright url="https://mariazevedo88.github.io/">
       All rights reserved - © 2020 - Mariana de Azevedo Santos
    </copyright>
-   
+
    <license url="https://www.gnu.org/licenses/gpl-3.0.en.html">
       GNU General Public License v3.0
 
@@ -40,8 +40,8 @@
 
    <plugin
          id="O3SMeasures"
-         download-size="91712"
-         install-size="91712"
+         download-size="91422"
+         install-size="91422"
          version="2.1.0"
          unpack="false"/>
 
