@@ -2,47 +2,35 @@
 <feature
       id="io.github.mariazevedo88.o3smeasures.feature"
       label="o3smeasures"
-      version="2.0.0"
+      version="2.1.0"
       provider-name="Mariana de Azevedo Santos"
       plugin="O3SMeasures">
 
-   <description url="https://github.com/mariazevedo88/o3smeasures-tool">
-      Feature of o3smeasures - an Eclipse plug-in to evaluate software internal quality of Java projects.
+   <description>
+      Feature of o3smeasures - an Eclipse plug-in to evaluate software
+internal quality of Java projects.
    </description>
-
-   <copyright url="https://mariazevedo88.github.io/">
-      All rights reserved - © 2019 - Mariana de Azevedo Santos
-   </copyright>
-
-   <license url="https://www.gnu.org/licenses/gpl-3.0.en.html">
-      GNU General Public License v3.0
-      
-      Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, 
-      which include larger works using a licensed work, under the same license.
-       
-      Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
-   </license>
 
    <url>
       <update label="o3smeasures" url="https://raw.githubusercontent.com/mariazevedo88/o3smeasures-plugin/master/site.xml"/>
    </url>
 
    <requires>
-      <import plugin="org.eclipse.ui" version="3.113.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.core.resources" version="3.13.400" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.jdt.core" version="3.18.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.core.runtime" version="3.15.300" match="greaterOrEqual"/>
-      <import plugin="org.junit.jupiter.api" version="5.4.0" match="greaterOrEqual"/>
-      <import plugin="org.junit.jupiter.params" version="5.4.0" match="greaterOrEqual"/>
-      <import plugin="org.junit.jupiter.engine" version="5.4.0" match="greaterOrEqual"/>
-      <import plugin="org.eclipse.jface.text" version="3.15.200" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui" version="3.109.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.resources" version="3.12.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.jdt.core" version="3.13.102" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.runtime" version="3.13.0" match="greaterOrEqual"/>
+      <import plugin="org.junit.jupiter.api" version="5.0.0" match="greaterOrEqual"/>
+      <import plugin="org.junit.jupiter.params" version="5.0.0" match="greaterOrEqual"/>
+      <import plugin="org.junit.jupiter.engine" version="5.0.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.jface.text" version="3.12.2" match="greaterOrEqual"/>
    </requires>
 
    <plugin
          id="O3SMeasures"
-         download-size="13811"
-         install-size="13811"
-         version="2.0.0"
+         download-size="91712"
+         install-size="91712"
+         version="2.1.0"
          unpack="false"/>
 
 </feature>
