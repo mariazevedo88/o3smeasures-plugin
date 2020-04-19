@@ -2,7 +2,7 @@
 
 Eclipse Update Site mirror for O3SMeasures plugin.
 
-<b>Version 2.0.0</b>
+<b>Version 2.1.0</b>
 
 * o3smeasures Main Measures Diagnostic View
 * o3smeasures Secondary Measures Diagnostic View
